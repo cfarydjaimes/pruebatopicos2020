@@ -16,6 +16,7 @@ public class Ejercicio1topicos {
      */
     public static void main(String[] args) {
         System.out.println("Prueba 4 mayo/ 10 am");
+        System.out.println("Prueba 4 mayo/ 11 am");
     }
     
 }
